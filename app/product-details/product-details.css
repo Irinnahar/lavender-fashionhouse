@@ -1,0 +1,29 @@
+.product-details.ng-scope {
+    display: flex;
+    margin: 5% 0;
+}
+.imgbox {
+    height: 300px;
+    width: 100%;
+    margin-right: 8%;
+    justify-content: center;
+    overflow: hidden;
+    display: inline-flex;
+}
+img {
+    height: 100%;
+    width: auto;
+}
+.imglist {
+    display: flex;
+    flex-direction: row;
+    margin: 19px 0;
+}
+#thumbline {
+    width: 65px;
+    height: 70px;
+    margin-right: 10px;
+}
+div#details {
+    margin-left: 7%;
+}

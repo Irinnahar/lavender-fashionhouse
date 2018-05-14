@@ -1,0 +1,21 @@
+
+<div class="product-details" >
+    <div class="images">
+        <div class="imgbox">
+            <img src="{{mainImg}}">
+        </div>
+        <div class="imglist" >
+            <div id="thumbline" ng-repeat="image in product.images" ng-click="changeImg(image)">   
+                <img ng-src=" {{image.name}} ">    
+            </div>    
+        </div>
+    </div>
+    <div id="details">
+        <h4> {{product.name | lowercase}} </h4>
+        <p> Type: {{product.type}} </p>
+        <p> Description: {{product.description}} </p>
+        <p> {{product.price | currency}} </p>
+        <button>Buy Now</button>
+        <a ng-href="#!/templates"> Go Back</a>
+    </div>
+</div>
