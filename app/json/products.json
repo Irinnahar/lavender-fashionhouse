@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name": "Evening Gown",
+        "type": "gown",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": 50.99,
+        "images": [
+            {
+                "name": "https://www.modcloth.com/dw/image/v2/ABAT_PRD/on/demandware.static/-/Sites-modcloth-master/default/dweb928b41/images/10088408_049_MAIN.jpg?sw=297&sh=425&sm=fit"
+            },
+            {
+                "name": "https://pinchofstyle.pl/userdata/gfx/9469202ac3e6d6f445153ffbcfa898cd.jpg"
+            },
+            {
+                "name": "http://sukienkichichilondon.pl/wp-content/uploads/2017/07/2dcf06ebc451525c4de6da59378f98275e2d4334.jpg"
+            },
+            {
+                "name": "https://www.chichiclothing.com/product_images/m/102/26.02.18_ChiChi_103_0015__03851_zoom.jpg"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name": "Cami Crochet Flower Midi Dress",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "type": "Midi Dress",
+        "price": 45.99,
+        "images": [
+            {
+                "name": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2016/07/27/goods-first-img/1493770026684680226.JPG"
+            },
+            {
+                "name": "https://media.missguided.com/s/missguided/DE914851_set/4/red-short-sleeve-lace-midi-skater-dress.jpg?$product-page__main--1x$"
+            },
+            {
+                "name": "http://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2016/07/27/thumb-img/1493768472031790313.jpg"
+            }
+        ]
+    },  
+    {
+        "id":3,
+        "name": "OFF-THE-SHOULDER SKATER DRESS ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "type": "OFF-THE-SHOULDER SKATER DRESS",
+        "price": 100.99,
+        "images": [
+            {
+                "name": "https://www.lulus.com/images/product/xlarge/2451702_458742.jpg"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name": "BURGUNDY LACE BODYCON DRESS",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "type": "BODYCON DRESS",
+        "price": 80.99,
+        "images": [
+            {
+                "name": "https://cdn.tobi.com/product_images/md/1/burgundy-my-lace-or-yours-bodycon-dress.jpg"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name": "Women's Elegant Sequin Sleeveless Lace Maxi Evening Chiffon Dress",
+        "description": "",
+        "type": "Maxi Evening Chiffon Dress",
+        "price": 180.99,
+        "images": [
+            {
+                "name": "http://image22.agathagarcia.com/o_img/2016/09/18/207308-10179454-home/women-s-elegant-solid-sleeve-lace-maxi-evning-chiffon-dress.jpg"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name": "Ball Gowns Sweet Sixteen Dress Debutante Gown",
+        "description": "",
+        "type": "Ball Gowns",
+        "price": 250.99,
+        "images": [
+            {
+                "name": "https://ae01.alicdn.com/kf/HTB1RSnJPFXXXXayXXXXq6xXFXXXp/Gorgeous-Dusty-Blue-Quinceanera-Dresses-With-Cape-vestidos-para-quinceaneras-2017-Ball-Gowns-Sweet-Sixteen-Dress.jpg_640x640.jpg"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name": "Ball Gowns Sweet Sixteen Dress Debutante Gown",
+        "description": "",
+        "type": "Ball Gowns",
+        "price": 250.99,
+        "images": [
+            {
+                "name": "http://image23.weroa.com/o_img/2016/12/26/215286-10188966-big/women-s-fashion-halter-neck-v-neck-long-prom-dress.jpg"
+            }
+        ]
+    }
+]

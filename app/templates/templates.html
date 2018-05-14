@@ -1,0 +1,19 @@
+<img src="http://demandware.edgesuite.net/aaje_prd/on/demandware.static/Sites-pacsun-Site/Sites-pacsun-Library/default/dw1122e4fa/2015/floorsets/06/03/catBanner-dresses.jpg">
+<div class="about">
+    <h2>About Us</h2>
+    <p>ModCloth is the fun, friendly spot for style and decor that’s as expressive and unique as you are! Inspired by feedback from our dedicated community, our exclusive line of apparel is available in a full range of sizes ― because we believe fashion is for every body. We also carry a curated selection of styles from hundreds of independent designers.
+    Founded in a college dorm room by high school sweethearts Susan Gregg Koger and Eric Koger in 2002, ModCloth has since grown to over 350 employees across offices in San Francisco, Los Angeles, and Pittsburgh.</p>
+</div>
+<div class="productlist">
+    <h2>Product List</h2>
+    <div id="products">
+        <div class="product" ng-repeat="product in products">
+            <div id="imgbox">
+                <img ng-src=" {{product.images[0].name}} ">
+            </div>
+            <h4> {{product.name | lowercase}} </h4>
+            <p> {{product.price | currency}} </p>
+            <a href="#!/templates/{{product.id}}">Details</a>
+        </div>
+    </div>
+</div>
